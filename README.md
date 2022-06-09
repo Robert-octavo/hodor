@@ -1,4 +1,5 @@
-# **Hodor - cheat online voting contestsHodor project**
+# **Hodor - cheat online voting contests - Hodor project**
+
 ## Background Context
 
 ![hodor image](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/261/giphy_hodor.gif)
